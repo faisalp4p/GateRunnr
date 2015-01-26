@@ -96,7 +96,7 @@ public class ControllerActivity extends ActionBarActivity {
 
         pairedDevices = ba.getBondedDevices();
         for(BluetoothDevice bt: pairedDevices) {
-            if(bt.getName().equals("linvor")) {
+            if(bt.getName().equals("linvor")) { // replace "linvor" with your bluetooth name
                 device_to_connect = bt;
                 System.out.println("Linvor found");
                 break;
