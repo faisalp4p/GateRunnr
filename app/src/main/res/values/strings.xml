@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GateRunnr</string>
+    <string name="action_settings">Settings</string>
+    <string name="header">GATE/RUNNR</string>
+    <string name="sub_header">WIRELESS GATE OPENER</string>
+
+</resources>
